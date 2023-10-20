@@ -41,6 +41,9 @@ function App() {
             <button>Submit</button>
           </form>
           <WeatherList weatherData={weatherData} />
+          <div>
+            <a href="https://anko.education/webapi/jma" target='blank'>番号はここを参考してください</a>
+          </div>
         </div>
       )}
     </>
