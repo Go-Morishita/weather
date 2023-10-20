@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 import axios from 'axios';
-import WeatherList from './compornent/weatherList';
+import WeatherList from './compornent/WeatherList';
 
 function App() {
 
